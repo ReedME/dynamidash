@@ -247,3 +247,4 @@ Instagram: <https://instagram.com/creativetimofficial>
 
 [version-badge]: https://img.shields.io/badge/version-1.2.0-blue.svg
 # dynamidash
+# dynamidash
